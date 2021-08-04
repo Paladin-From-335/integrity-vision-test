@@ -1,11 +1,9 @@
 package com.github.integrityvision.services;
 
-import com.github.integrityvision.dto.RequestDto;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 @Service
 public class GameService {
